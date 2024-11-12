@@ -4,19 +4,19 @@
 $theme: "dark";
 
 // Set up our basic colour scheme
-$lightest: #464646;
-$light:    #313131;
-$default:  #232323;
-$darker:   #1d1d1d;
-$darkest:  #161616;
+$lightest: #EBEEF1;
+$light:    #EBEEF1;
+$default:  #202327;
+$darker:   #1b1d21;
+$darkest:  #1b1d21;
 
 // Accents
-$accent:     #007bff;
+$accent:     #1b1d21;
 // $accent_primary:      #007bff;
 
 // Text colours
-$title:    #ececec;
-$text:     #dcdcdc;
+$title:    #EBEEF1;
+$text:     #fff;
 
 // Import the base styles
 @import "../base.scss";
